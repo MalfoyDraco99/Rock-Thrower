@@ -1,1 +1,9 @@
-This is my very epic project called "Rock Thrower" yeah its dope just run the .py file if you know what your doing!
+Step 1.
+
+Download the whole Python Rock Thrower folder
+
+Step 2.
+
+Run the game.py 
+
+The folder is required because of the assets and it wont load properly
